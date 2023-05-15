@@ -18,7 +18,7 @@ This is a simple digital clock project that displays the current time in a visua
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/siboniseni/digital-clock.git
 ```
 
 2. Open the `index.html` file in a web browser.
